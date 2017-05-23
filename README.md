@@ -1,2 +1,3 @@
 # myOAuthApp
-This is just a repository for register a 
+This is just a repository for register a OAuthApp.
+Thanks.
